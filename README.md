@@ -1,9 +1,11 @@
-The project was created to execute benchmarks to demonstrate the performance difference between using Automapper and .NET native solutions like implicit operators. As a bonus, the project has a test with Mapperly.
+The project was created to execute benchmarks to demonstrate the performance difference between using Automapper and .NET native solutions like implicit operators. 
+As a bonus, the project has a test with Mapperly.
 
 To execute the project just run on terminal the command below:
 
-1 - Go to the project folder where the .csproj resides and run
-dotnet run -c Release
+1 - Go to the project folder where the .csproj resides and run the command below
+
+`dotnet run -c Release`
 
 After the execution, the terminal will print the output of the tests like this
 

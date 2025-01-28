@@ -1,3 +1,3 @@
 namespace poc.Mapper.Dtos;
 
-public record CustomerDto();
+public record CustomerDto(string Name, string Email, string Type, string Phone);
